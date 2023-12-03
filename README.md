@@ -1,4 +1,4 @@
-# Sales Dashboard using Power BI
+#  Customer Sales Dashboard using Power BI
 
 ## Overview
 
