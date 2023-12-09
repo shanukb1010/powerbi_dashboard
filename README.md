@@ -21,13 +21,13 @@ This repository contains the source code and resources for a Sales Dashboard cre
 ### Installation
 
 1. Clone this repository: `git clone https://github.com/shanukb1010/sales-dashboard.git`
-2. Open the Power BI project file (`.pbix`) in Power BI Desktop.
+2. Open the Power BI project file (`.xlsx`) in Power BI Desktop.
 3. Connect the dashboard to your sales data source.
 4. Refresh the data and customize visuals as needed.
 5. Save the changes.
 
 ## Usage
 
-- Open the Power BI file (`sales-dashboard.pbix`) in Power BI Desktop.
+- Open the Power BI file (`sales-dashboard.xlsx`) in Power BI Desktop.
 - Interact with the dashboard to explore different dimensions of sales data.
 - Customize filters, date ranges, and visual elements based on your preferences.
